@@ -47,7 +47,7 @@ To know more about the courses and to access assignments, notes and schedule: [C
 | 1 | [Class Lectures from MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) | 9 weeks | High School Maths |
 | 2 | [Video Lectures](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d) | 9 weeks | High School Maths |
 
-Both of these lectures are technically the same, the only difference is in the mode of teaching. If you like recorded videos of lectures with professors teaching in classroom, you should choose course 1. If you like a teacher teaching you on a laptop with more hands on experience that you can follow, go with course 2.
+Both of these courses are technically the same, the only difference is in the mode of teaching. If you like recorded videos of lectures with professors teaching in classroom, you should choose course 1. If you like a teacher teaching you on a laptop with more hands on experience that you can follow, go with course 2.
 
 ### Math Elective Courses
 
@@ -78,15 +78,15 @@ I will personally recommend you to go through Calculus/ Linear Algebra if you ar
 
 ### Mathematics for Computer Science
 
+After you are done with the basic maths electives (or if you have skipped that part because you are already familiar), it is time to do some real computer science stuff.
+
 This course covers elementary discrete mathematics for computer science and engineering. It emphasizes mathematical definitions and proofs as well as applicable methods.
 
-[Course Details](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ
+To know more about the courses and to access assignments, notes and schedule: [Course Details](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 | Course no. | Courses | Duration | Prerequisites |
 | ------| ------------- | ------------- | ------------- | 
 | 1 | [Class Lectures from MIT, 2011](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) | 10 weeks | High School Maths |
 | 1 | [Video Lectures by MIT, 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) | 10 weeks | High School Maths |
 
-
+Again, both of these courses are technically the same, the only difference is in the mode of teaching. If you like recorded videos of lectures with professors teaching in classroom, you should choose course 1. If you like a teacher teaching you on a laptop with more hands on experience that you can follow, go with course 2.
