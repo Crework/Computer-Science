@@ -51,7 +51,8 @@ Both of these lectures are technically the same, the only difference is in the m
 
 ### Math Elective Courses
 
-**You can choose one/more of the following topics**: calculus, linear algebra, or probability.
+**You can choose one/more of the following topics**: 
+`calculus`, `linear algebra`, or `probability`.
 
 I will personally recommend you to go through Calculus/ Linear Algebra if you are not familiar with these topics already. If you are, just skip this elective section.
 
