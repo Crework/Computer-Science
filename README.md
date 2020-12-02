@@ -4,7 +4,7 @@
 
 Did you just decide that you want to learn how to code? Is this your day 0 and you are just looking for best resources to get you started and make you understand what exactly is programming and why do we need it? 
 
-If yes, then you are in luck. You will find eveything here. You can even do a Computer Science Degree without going to college or without paying any money. You can check that out later [here.](#introduction-to-computer-science)
+If yes, then you are in luck. You will find eveything here. You can even do a Computer Science Degree without going to college or without paying any money. You can check that out later [here.](#curriculum)
 
 For now, go to this link and take a look at this 1 hour and 30 minutes video. Potentially, it could change your life if you fall in love with programming because of this, but we can't promise anything.
 
