@@ -6,7 +6,7 @@ Did you just decide that you want to learn how to code? Is this your day 0 and y
 
 If yes, then you are in luck. You will find eveything here. You can even do a Computer Science Degree without going to college or without paying any money. You can check that out later [here.](#curriculum)
 
-For now, go to this link and take a look at this 1 hour and 30 minutes video. Potentially, it could change your life if you fall in love with programming because of this, but we can't promise anything.
+For now, go to this link and take a look at this 2 hours video. Potentially, it could change your life if you fall in love with programming because of this, but we can't promise anything.
 
 [Introduction to Programming by freecodecamp.org](https://youtu.be/zOjov-2OZ0E)
 
