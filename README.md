@@ -18,9 +18,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites |
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/) | 10 weeks | 10 hours/week | none | 
+|Courses | Duration | Effort | Prerequisites |
+|:-- | :--: | :--: | :--: | :--:
+|[Python for Everybody](https://www.py4e.com/) | 10 weeks | 10 hours/week | none | 
 
 #### Introduction to Computer Science
 
