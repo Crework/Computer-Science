@@ -2,7 +2,7 @@
 
 ### What is Programming? (more importantly, why do we code?)
 
-Did you just decide that you want to learn how to code? Is this your day 0 and you are just looking for best resources to get you started and make you understand what exactly is programming and why do we need it? 
+Did you just decide that you want to learn how to code? Is this your day 0 and you are looking for best resources to get you started and make you understand what exactly is programming and why do we need it? 
 
 If yes, then you are in luck. You will find eveything here. You can even do a Computer Science Degree without going to college or without paying any money. You can check that out later [here.](#curriculum)
 
@@ -12,7 +12,7 @@ For now, go to this link and take a look at this 2 hours video. Potentially, it 
 
 Now, after watching this video, you know what programming is. Let's dig a bit deeper now.
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
+If you've never written a for-loop, or don't know what a string is, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
 **Topics covered**:
 `simple programs`
